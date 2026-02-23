@@ -3,8 +3,8 @@ import { getCategories, getSkills } from "@/lib/firestore";
 import SubmitForm from "./SubmitForm";
 
 export const metadata: Metadata = {
-    title: "Submit a Prompt | OpenCodex Prompts",
-    description: "Submit your AI prompt for community review.",
+    title: "Submit a Project | OpenCodex",
+    description: "Submit your Project for community review.",
     robots: {
         index: false,
         follow: false,
